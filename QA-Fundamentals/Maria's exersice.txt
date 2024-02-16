@@ -1,0 +1,4 @@
+Hello World!
+
+My name is Maria.
+I study QA-Fundamentals courses and exercise Git and GitHub at the moment.
